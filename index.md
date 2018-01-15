@@ -8,7 +8,7 @@ Chao is currently a Principal Researcher at Tencent AI lab. Prior to joining Ten
 ### Educations
 
 - Ph.D., Electrical and Computer Engineering, Georgia Institute of Technology, 2014
- >  Dissertation: Towards Robust Conversational Speech Recognition and Understanding (pdf)
+> Dissertation: Towards Robust Conversational Speech Recognition and Understanding (pdf)
 
 - M.S., Electrical and Computer Engineering, Georgia Institute of Technology, 2010
 - M.S., Electrical Engineering, Shanghai Jiao Tong University, 2010
@@ -22,13 +22,13 @@ Chao is currently a Principal Researcher at Tencent AI lab. Prior to joining Ten
 - Speech Research & Dev. Engineer, Siri at Apple, Cupertino, CA, Aug. 2014 - Oct. 2017
 
 - Research Assistant, Georgia Institute of Technology, Atlanta, GA,  Jan. 2010 - July. 2014
- > Advisor: Biing-Hwang (Fred) Juang
+> Advisor: Biing-Hwang (Fred) Juang
 
 - Research Intern, Microsoft Research, Redmond, WA,  May. 2013 - Aug. 2013
- > Mentor: Dong Yu, Mike Seltzer, Jasha, Droppo
+> Mentor: Dong Yu, Mike Seltzer, Jasha, Droppo
 
 - Research Intern, AT&T Labs Research, Florham Park, NJ,  May. 2012 - Aug. 2012
- > Mentor: David Thomson, Patrick Haffner, Diamantino Caseiro
+> Mentor: David Thomson, Patrick Haffner, Diamantino Caseiro
 
 ### Publications
 
