@@ -1,36 +1,36 @@
 
-###Email: cweng6 [at] gmail [dot] com
+### Email: cweng6 [at] gmail [dot] com
 
-###Backgrounds
+### Backgrounds
 
 Chao is currently a Principal Researcher at Tencent AI lab. Prior to joining Tencent, he spent three years in Siri Speech team at Apple where his main effort has been advancing state-of-the-art acoustic modeling for Siri speech recognition especially in the far-field scenario. He has built the very first far-field models for both iPhone and Homepod. During his graduate study, Chao has been conducting research on many aspects of speech recognition at Georgia Tech advised by Prof. Biing-Hwang (Fred) Juang. He has also been with AT&T Lab Research and Microsoft Research as a Research Intern, working on recurrent neural network language modeling, Mandarin and Japanese speech recognition, deep neural networks for multi-talker speech recognition. Chao contributes to the Kaldi project (cf. the project page) , an open-source speech recognition framework that has been widely adopted by both academia and industry. His backgrounds lie generally in the areas of speech recognition and natural language processing with special focus on discriminative training, recurrent neural networks, far-field speech recognition, weighted finite-state transducers (WFSTs) for speech and language processing. Chao holds a Ph.D. in Electrical and Computer Engineering from Georgia Institute of Technology.
 
-###Educations
+### Educations
 
-Ph.D., Electrical and Computer Engineering, Georgia Institute of Technology, 2014
+- Ph.D., Electrical and Computer Engineering, Georgia Institute of Technology, 2014
 - Dissertation: Towards Robust Conversational Speech Recognition and Understanding (pdf)
 
-M.S., Electrical and Computer Engineering, Georgia Institute of Technology, 2010
-M.S., Electrical Engineering, Shanghai Jiao Tong University, 2010
+- M.S., Electrical and Computer Engineering, Georgia Institute of Technology, 2010
+- M.S., Electrical Engineering, Shanghai Jiao Tong University, 2010
 
-B.S., Electrical Engineering, East China University of Science and Technology, 2007
+- B.S., Electrical Engineering, East China University of Science and Technology, 2007
 
-###Experiences 
+### Experiences 
 
-Principal Researcher, Tencent AI lab, Nov. 2017 - 
+- Principal Researcher, Tencent AI lab, Nov. 2017 - 
 
-Speech Research & Dev. Engineer, Siri at Apple, Cupertino, CA, Aug. 2014 - Oct. 2017
+- Speech Research & Dev. Engineer, Siri at Apple, Cupertino, CA, Aug. 2014 - Oct. 2017
 
-Research Assistant, Georgia Institute of Technology, Atlanta, GA,  Jan. 2010 - July. 2014
+- Research Assistant, Georgia Institute of Technology, Atlanta, GA,  Jan. 2010 - July. 2014
 ---Advisor: Biing-Hwang (Fred) Juang
 
-Research Intern, Microsoft Research, Redmond, WA,  May. 2013 - Aug. 2013
+- Research Intern, Microsoft Research, Redmond, WA,  May. 2013 - Aug. 2013
 ---Mentor: Dong Yu, Mike Seltzer, Jasha, Droppo
 
-Research Intern, AT&T Labs Research, Florham Park, NJ,  May. 2012 - Aug. 2012
+- Research Intern, AT&T Labs Research, Florham Park, NJ,  May. 2012 - Aug. 2012
 ---Mentor: David Thomson, Patrick Haffner, Diamantino Caseiro
 
-###Publications
+### Publications
 
 [1] C. Weng, D. Yu, M. L. Seltzer and J. Droppo, "Deep Neural Networks for Single-Channel Multi-Talker Speech Recognition," Audio, Speech, and Language Processing, IEEE/ACM Transactions on, vol.23, no.10, pp.1670,1679, Oct. 2015 
 
@@ -58,7 +58,7 @@ Research Intern, AT&T Labs Research, Florham Park, NJ,  May. 2012 - Aug. 2012
 
 [13] C. Weng and B.-H. Juang, "Recent development of discriminative training using non-uniform criteria for cross-level acoustic modeling", in Proc. ICASSP2011.
 
-Patents
+### Patents
 [1] D. Yu, C. Weng, M. L. Seltzer, J. Droppo, “Mixed Speech Recognition”  US20160284348 A1
 
 
