@@ -17,7 +17,7 @@ the most prevalent open-source speech recognition toolkit in both academia and i
 ### Educations
 
 - Ph.D., Electrical and Computer Engineering, Georgia Institute of Technology
-> Dissertation: Towards Robust Conversational Speech Recognition and Understanding (pdf)
+> Dissertation: Towards Robust Conversational Speech Recognition and Understanding
 
 - M.S., Electrical and Computer Engineering, Georgia Institute of Technology
 - M.S., Electrical Engineering, Shanghai Jiao Tong University
