@@ -41,5 +41,5 @@ the most prevalent open-source speech recognition toolkit in both academia and i
 
 ### Publications
 
-[link Google Scholar](https://scholar.google.com/citations?user=pRA19-8AAAAJ&hl=en)  
+[link to Google Scholar](https://scholar.google.com/citations?user=pRA19-8AAAAJ&hl=en)  
 
