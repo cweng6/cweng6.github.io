@@ -4,7 +4,15 @@
 
 ### Backgrounds
 
-Chao is currently a Principal Researcher at Tencent AI lab. Prior to joining Tencent, he spent three years in Siri Speech team at Apple where his main effort has been advancing state-of-the-art acoustic modeling for Siri speech recognition especially in the far-field scenario. He has built the very first far-field models for both iPhone and Homepod. During his graduate study, Chao has been conducting research on many aspects of speech recognition at Georgia Tech advised by Prof. Biing-Hwang (Fred) Juang. He has also been with AT&T Lab Research and Microsoft Research as a Research Intern, working on recurrent neural network language modeling, Mandarin and Japanese speech recognition, deep neural networks for multi-talker speech recognition. Chao contributes to the Kaldi project (cf. the project page) , an open-source speech recognition framework that has been widely adopted by both academia and industry. His backgrounds lie generally in the areas of speech recognition and natural language processing with special focus on discriminative training, recurrent neural networks, far-field speech recognition, weighted finite-state transducers (WFSTs) for speech and language processing. Chao holds a Ph.D. in Electrical and Computer Engineering from Georgia Institute of Technology.
+Chao is currently a Principal Researcher at Tencent AI lab. Prior to joining Tencent, he spent three years
+in Siri Speech team at Apple. He was key engineer responsible for far-field Siri speech recognition and
+successfully delivered the very first far-field acoustic models on iPhone and Homepod which drastically
+improved user experience of Siri in hands-free mode. During his graduate study, Chao has been conducting
+research on many aspects of speech recognition at Georgia Tech advised by Prof. Biing-Hwang (Fred)
+Juang. He has also been with AT&T Lab Research and Microsoft Research as a Research Intern, working on
+deep neural networks for multi-talker speech recognition, recurrent neural network for noise robustness and
+language modeling. Chao was also an early contributor to the Kaldi project, which nowadays has become
+the most prevalent open-source speech recognition toolkit in both academia and industry.
 
 ### Educations
 
