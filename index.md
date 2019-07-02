@@ -16,13 +16,13 @@ the most prevalent open-source speech recognition toolkit in both academia and i
 
 ### Educations
 
-- Ph.D., Electrical and Computer Engineering, Georgia Institute of Technology, 2014
+- Ph.D., Electrical and Computer Engineering, Georgia Institute of Technology
 > Dissertation: Towards Robust Conversational Speech Recognition and Understanding (pdf)
 
-- M.S., Electrical and Computer Engineering, Georgia Institute of Technology, 2010
-- M.S., Electrical Engineering, Shanghai Jiao Tong University, 2010
+- M.S., Electrical and Computer Engineering, Georgia Institute of Technology
+- M.S., Electrical Engineering, Shanghai Jiao Tong University
 
-- B.S., Electrical Engineering, East China University of Science and Technology, 2007
+- B.S., Electrical Engineering, East China University of Science and Technology
 
 ### Experiences 
 
@@ -41,31 +41,5 @@ the most prevalent open-source speech recognition toolkit in both academia and i
 
 ### Publications
 
-[1] C. Weng, D. Yu, M. L. Seltzer and J. Droppo, "Deep Neural Networks for Single-Channel Multi-Talker Speech Recognition," Audio, Speech, and Language Processing, IEEE/ACM Transactions on, vol.23, no.10, pp.1670,1679, Oct. 2015 
+[link Google Scholar](https://scholar.google.com/citations?user=pRA19-8AAAAJ&hl=en)  
 
-[2] C. Weng and B.-H. Juang, "Discriminative Training Using Non-Uniform Criteria for Keyword Spotting on Spontaneous Speech," Audio, Speech, and Language Processing, IEEE/ACM Transactions on, vol.23, no.2, pp.300,312, Feb. 2015
-
-[3] C. Weng, D. Thomson, P. Haffner and B.-H. Juang, "Latent Semantic Rational Kernels for Topic Spotting on Conversational Speech," Audio, Speech, and Language Processing, IEEE/ACM Transactions on , vol.22, no.12, pp.1738,1749, Dec. 2014
-
-[4] Z. Huang, J. Li, C. Weng and C.-H Lee, "Beyond Cross-entropy: Towards Better Frame-level Objective Functions For Deep Neural Network Training In Automatic Speech Recognition", in Proc. InterSpeech2014
-
-[5] Z. Huang, J. Li, S. Siniscalchi, I. Chen, C. Weng and C.-H Lee, "Feature Space Maximum A Posteriori Linear Regression for Adaptation of Deep Neural Networks", in Proc. InterSpeech2014
-
-[6] C. Weng, D. Yu, S. Watanabe and B.-H. Juang, "Recurrent Deep Neural Networks for Robust Speech Recognition" in Proc. ICASSP2014 
-
-[7] C. Weng, D. Yu, M. L. Seltzer and J. Droppo, "Single-channel Mixed Speech Recognition Using Deep Neural Networks" in Proc. ICASSP2014 
-
-[8] Z. Huang, C. Weng, K. Li, Y. Cheng and C.-H. Lee, "Deep Learning Vector Quantization for Acoustic Information Retrieval" in Proc. ICASSP2014 
-
-[9] C. Weng and B.-H. Juang, "Latent Semantic Rational Kernels for Topic Spotting on Spontaneous Conversational Speech", in Proc. ICASSP2013. 
-
-[10] C. Weng and B.-H. Juang, "Adaptive Boosted Non-uniform MCE for Keyword Spotting on Spontaneous Speech", in Proc. ICASSP2013.
-
-[11] C. Weng, B.-H. Juang and D. Povey, "Discriminative Training Using Non-uniform Criteria for Keyword Spotting on Spontaneous Speech", in Proc. InterSpeech2012.
-
-[12] C. Weng and B.-H. Juang, "A Comparative Study of Discriminative Training Using Non-uniform Criteria for Cross-layer Acoustic Modeling", in Proc. ICASSP2012.
-
-[13] C. Weng and B.-H. Juang, "Recent development of discriminative training using non-uniform criteria for cross-level acoustic modeling", in Proc. ICASSP2011.
-
-### Patents
-[1] D. Yu, C. Weng, M. L. Seltzer, J. Droppo, “Mixed Speech Recognition”  US20160284348 A1
