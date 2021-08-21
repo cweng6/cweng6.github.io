@@ -23,7 +23,7 @@ language modeling. Chao is also an early contributor to the Kaldi project and th
 
 ### Experiences 
 
-- Principal Researcher, Tencent AI lab, Nov. 2017 - 
+- Principal Researcher & Manager, Tencent AI lab, Nov. 2017 - 
 
 - Speech Research & Dev. Engineer, Siri at Apple, Cupertino, CA, Aug. 2014 - Oct. 2017
 
@@ -31,7 +31,7 @@ language modeling. Chao is also an early contributor to the Kaldi project and th
 > Advisor: Biing-Hwang (Fred) Juang
 
 - Research Intern, Microsoft Research, Redmond, WA,  May. 2013 - Aug. 2013
-> Mentor: Dong Yu, Mike Seltzer, Jasha, Droppo
+> Mentor: Dong Yu, Mike Seltzer, Jasha Droppo
 
 - Research Intern, AT&T Labs Research, Florham Park, NJ,  May. 2012 - Aug. 2012
 > Mentor: David Thomson, Patrick Haffner, Diamantino Caseiro
