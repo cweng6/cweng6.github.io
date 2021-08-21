@@ -9,7 +9,7 @@ successfully delivered the very first far-field acoustic models on iPhone and Ho
 research on many aspects of speech recognition at Georgia Tech advised by Prof. Biing-Hwang (Fred)
 Juang. He has also been with AT&T Lab Research and Microsoft Research as a Research Intern, working on
 deep neural networks for multi-talker speech recognition, recurrent neural network for noise robustness and
-language modeling. Chao was also an early contributor to the Kaldi project and main developer of [Pika](https://github.com/tencent-ailab/pika) .
+language modeling. Chao is also an early contributor to the Kaldi project and the main developer of [Pika](https://github.com/tencent-ailab/pika) .
 
 ### Educations
 
