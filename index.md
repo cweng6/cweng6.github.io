@@ -4,7 +4,7 @@
 
 ### Backgrounds
 
-Chao is currently a principal researcher and manager at Tencent AI lab where he manages a group of researchers working on speech processing including enhancement, separation, recognition, synthesis and speaker verification/diarization. Prior to joining Tencent, he spent three years in Siri Speech team at Apple. He was key engineer responsible for far-field Siri speech recognition and
+Chao is currently a principal researcher and manager at Tencent AI lab where he manages a group of researchers and engineers working on speech processing including enhancement, separation, recognition, synthesis and speaker verification/diarization. Prior to joining Tencent, he spent three years in Siri Speech team at Apple. He was key engineer responsible for far-field Siri speech recognition and
 successfully delivered the very first far-field acoustic models on iPhone and Homepod. During his graduate study, Chao has been conducting
 research on many aspects of speech recognition at Georgia Tech advised by Prof. Biing-Hwang (Fred)
 Juang. He has also been with AT&T Lab Research and Microsoft Research as a Research Intern, working on
