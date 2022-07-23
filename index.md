@@ -9,11 +9,8 @@ Chao is currently a manager and principal researcher at Tencent AI lab where he 
 ### Educations
 
 - Ph.D., Electrical and Computer Engineering, Georgia Institute of Technology
-> Dissertation: Towards Robust Conversational Speech Recognition and Understanding
-
 - M.S., Electrical and Computer Engineering, Georgia Institute of Technology
 - M.S., Electrical Engineering, Shanghai Jiao Tong University
-
 - B.S., Electrical Engineering, East China University of Science and Technology
 
 ### Experiences 
