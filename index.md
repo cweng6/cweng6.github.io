@@ -16,15 +16,11 @@ Chao is currently a manager and principal researcher at Tencent AI lab where he 
 ### Experiences 
 
 - Principal Researcher & Manager, Tencent AI lab, Nov. 2017 - 
-
 - Speech Research & Dev. Engineer, Siri at Apple, Cupertino, CA, Aug. 2014 - Oct. 2017
-
 - Research Assistant, Georgia Institute of Technology, Atlanta, GA,  Jan. 2010 - July. 2014
 > Advisor: Biing-Hwang (Fred) Juang
-
 - Research Intern, Microsoft Research, Redmond, WA,  May. 2013 - Aug. 2013
 > Mentor: Dong Yu, Mike Seltzer, Jasha Droppo
-
 - Research Intern, AT&T Labs Research, Florham Park, NJ,  May. 2012 - Aug. 2012
 > Mentor: David Thomson, Patrick Haffner, Diamantino Caseiro
 
