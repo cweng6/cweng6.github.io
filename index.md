@@ -6,13 +6,6 @@
 
 Chao is currently a manager and principal researcher at Tencent AI lab where he manages two teams of researchers and engineers working on speech (including speech/audio codec, enhancement, recognition, synthesis) and high performance computing. Prior to joining Tencent, he spent three years in Siri Speech team at Apple. He was key engineer responsible for Siri speech recognition and successfully delivered the very first far-field and convolutional acoustic models on iPhone and Homepod. During his graduate study, Chao was advised by Prof. Biing-Hwang (Fred) Juang (a member of NAE) and conducted research at AT\&T Lab Research and Microsoft Research. Chao holds a PhD from Georgia Tech.
 
-### Educations
-
-- Ph.D., Electrical and Computer Engineering, Georgia Institute of Technology
-- M.S., Electrical and Computer Engineering, Georgia Institute of Technology
-- M.S., Electrical Engineering, Shanghai Jiao Tong University
-- B.S., Electrical Engineering, East China University of Science and Technology
-
 ### Experiences 
 
 - Principal Researcher & Manager, Tencent AI lab, Nov. 2017 - 
