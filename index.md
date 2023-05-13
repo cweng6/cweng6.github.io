@@ -4,7 +4,7 @@
 
 ### Backgrounds
 
-Chao is currently a manager at Tencent AI Lab where he leads two teams of researchers and engineers focusing on speech tech (including speech/audio codec, enhancement, recognition, synthesis) and high performance computing. Prior to joining Tencent, he spent three years in Siri Speech team at Apple. He was key engineer responsible for Siri speech recognition and successfully delivered the very first far-field and convolutional acoustic models on iPhone and Homepod. During his graduate study, Chao was advised by Prof. Biing-Hwang (Fred) Juang (a member of NAE) and conducted research at AT&T Labs Research and Microsoft Research. Chao holds a PhD in Electrical and Computer Engineering from Georgia Tech.
+Chao Weng is a manager and principal researcher at Tencent AI Lab. He manages two groups of researchers and engineers focusing on speech tech (including speech codec, recognition, synthesis, and processing) and high performance computing. Prior to joining Tencent, Chao spent three years in Apple’s Siri Speech team as a key engineer responsible for Siri speech recognition and successfully delivered the very first far-field and convolutional acoustic models on iPhone and HomePod. He also conducted research at Microsoft Research Redmond and AT&T Labs Research during his graduate study at the Georgia Institute of Technology. Chao holds a Ph.D. in Electrical and Computer Engineering from the Georgia Institute of Technology.
 
 ### Experiences 
 
