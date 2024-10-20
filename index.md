@@ -1,7 +1,5 @@
 
 
-%### Email: cweng6 [at] gmail [dot] com
-
 ### Backgrounds
 
 Chao Weng is a manager and principal researcher at Tencent AI Lab. He manages two groups of researchers and engineers working on speech processing and recognition, speech/audio/video generation and translation. Prior to joining Tencent, Chao spent three years in Apple’s Siri Speech team 
